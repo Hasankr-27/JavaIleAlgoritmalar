@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class AsansorCalisma {
     public static void main(String[] args) {
-        //Asansor calisma sistemi kac saat sonra hedef kata ulasacagi belirlenir
+        //Asansor calisma sistemi kac adim sonra hedef kata ulasacagi belirlenir
         Scanner input = new Scanner(System.in);
 
         //Binanin kac katli oldugu girilir
@@ -59,3 +59,4 @@ public class AsansorCalisma {
     }
 
 }
+
